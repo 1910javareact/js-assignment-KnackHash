@@ -2,7 +2,7 @@
 Define function: fib(n) 
 Return the nth number in the fibonacci sequence. */
 function fib(n) {
-    var a = 1, b = 0, temp;
+    let a = 1, b = 0, temp;
 
     while (n >= 0){
       temp = a;
