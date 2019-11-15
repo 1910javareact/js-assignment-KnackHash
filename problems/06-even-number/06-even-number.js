@@ -13,4 +13,4 @@ function isEven(someNum) {
     return isEven; 
 }
 
-isEven(5)
+// isEven(5)
